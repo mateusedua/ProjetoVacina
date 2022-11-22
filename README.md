@@ -59,7 +59,7 @@ android/app/main/src/AndroidManifest.xml
     android:name="com.google.android.maps.v2.API_KEY"
     android:value="API_KEY" />
 
-# alterar configuração do firebase adicionado o seu
+# alterar configuração do firebase adicionando o seu
 
 const firebaseConfig = {
  //Alterar aqui
