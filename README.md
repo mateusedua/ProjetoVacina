@@ -11,7 +11,7 @@ A aplicação  consiste em o usuário cadastrar e gerenciar suas vacinas, onde e
 
 ## Layout Mobile
 
-<div style="display:flex,flex-direction:'row'">
+<div>
 <img  src="https://github.com/mateusedua/ProjetoVacina/blob/main/src/images/Login.jpg" width="220px"/>
 <img  src="https://github.com/mateusedua/ProjetoVacina/blob/main/src/images/Cadastrar%20Usu%C3%A1rio.jpg" width="220px"/>
 <img  src="https://github.com/mateusedua/ProjetoVacina/blob/main/src/images/Home.jpg" width="220px"/>
