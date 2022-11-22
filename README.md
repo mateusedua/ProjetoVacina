@@ -1,5 +1,7 @@
 # Gerenciamento de Vacina
 
+> Status: Desenvolvimento ⚠️
+
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/mateusedua/ProjetoVacina/blob/main/LICENCE)
 
